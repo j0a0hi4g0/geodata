@@ -7,5 +7,6 @@ def africa(request):
     return render(request, "africa.html")
 def angola(request):
     return render(request, "angola.html")
-
+def egito(request):
+    return render(request, "egito.html")
 
